@@ -61,6 +61,3 @@ A detailed video walkthrough of the application demonstrating its features and u
 - **Flowise Documentation**: [Flowise Documentation](https://docs.flowiseai.com/)
 - **OpenAI Documentation**: [OpenAI Documentation](https://beta.openai.com/docs/)
 - **Pinecone Documentation**: [Pinecone Documentation](https://docs.pinecone.io/)
-
-## Components Used
-![Components](./path_to_image/healthcare_guide_components.png)
